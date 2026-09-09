@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 16px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#map {
+    height: 560px;
+    width: 100%;
+}
+
+#brief {
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    background: #3A2E27;
+    color: #F5EFE7;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.outlet-popup h3 {
+    margin: 0 0 4px 0;
+    font-size: 15px;
+}
+
+.outlet-popup p {
+    margin: 2px 0;
+    font-size: 13px;
+    color: #555;
+}
+
+
+/* Says plainly that this is a demonstration dataset. It sits on the page
+   itself, not only in the README, so the map cannot be screenshotted and
+   passed around as though it were a real client's figures. */
+#brief .sample {
+    display: block;
+    margin-top: 6px;
+    font-size: 12px;
+    color: #C9B8A8;
+}

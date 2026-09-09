@@ -1,0 +1,118 @@
+{
+ "type": "FeatureCollection",
+ "note": "Sample data for Exercise 7. Coordinates are real Islamabad locations; the company, the outlets and the orders are invented.",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf F-7",
+    "opened": 2019
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.0555,
+     33.7206
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf F-6",
+    "opened": 2020
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.0728,
+     33.7266
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf Blue Area",
+    "opened": 2018
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.0551,
+     33.7104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf F-10",
+    "opened": 2021
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.9905,
+     33.6935
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf G-9",
+    "opened": 2022
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.029,
+     33.69
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf I-8",
+    "opened": 2023
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.076,
+     33.666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf Centaurus",
+    "opened": 2019
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.0501,
+     33.7076
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bean & Leaf G-11",
+    "opened": 2024
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.998,
+     33.669
+    ]
+   }
+  }
+ ]
+}
