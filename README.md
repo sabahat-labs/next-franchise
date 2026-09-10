@@ -45,6 +45,10 @@ can, which is the most a map should do.
 Leaflet, Leaflet.markercluster and Leaflet.heat. Vanilla JavaScript, no
 build step, no framework. It is a folder of static files.
 
+## How to build a map like this
+If you want to learn how to make maps like this, that support real life scenarios in decision making. Here is a link to my paid udemy course.
+https://www.udemy.com/course/leafletjs-for-beginners-build-interactive-web-maps-2026/?referralCode=
+
 ## Licence
 
 MIT — see [LICENSE](LICENSE).
